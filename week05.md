@@ -38,7 +38,7 @@ Challenge 2.5 (九宮格印鈔機): 定義中心座標 cx, cy = 1, 1。建立一
 
 <img width="635" height="278" alt="image" src="https://github.com/user-attachments/assets/f33de8b7-d928-4f32-8078-9dc2b7221e13" />
 
-##自習心得:
+## 自習心得:
 
 透過這次 Python 練習，我學會了使用變數、if-else 判斷式、for 迴圈及雙層迴圈來操作矩陣，也了解如何利用座標修改指定位置。從簡單的圖形排列到地雷盤面，讓我更熟悉程式邏輯，也提升了解決問題的能力。
 
