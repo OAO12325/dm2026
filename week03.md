@@ -32,3 +32,16 @@ if判斷式的函式使用
 <img width="424" height="203" alt="image" src="https://github.com/user-attachments/assets/77eaadef-5e4e-4cf2-8c3e-d782a33e3101" />
 <img width="790" height="646" alt="image" src="https://github.com/user-attachments/assets/78b0ef40-dd2c-4f54-8c7d-614e6eafbb87" />
 <img width="811" height="727" alt="image" src="https://github.com/user-attachments/assets/bb9ac183-faee-4878-9293-36c40673a901" />
+
+不同相位（$+\pi$）的四象限三角波曲線
+
+<img width="582" height="711" alt="image" src="https://github.com/user-attachments/assets/d146cc1a-8bff-4120-b423-8189264d688b" />
+
+學習成果驗證與時間戳記 (Final Result)
+
+<img width="690" height="257" alt="image" src="https://github.com/user-attachments/assets/312c744b-e4be-4f10-b4f5-ae53256fe54e" />
+
+
+
+
+
