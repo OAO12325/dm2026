@@ -58,6 +58,29 @@ App Lab 1.10: The Mixed State Map
 
 <img width="569" height="281" alt="image" src="https://github.com/user-attachments/assets/78b0cc22-2037-4085-94b6-96f0faa325a1" />
 
+Challenge 2.1 (客製化地皮): 撰寫迴圈與字串相乘，印出一個 5x5 的海洋網格 (使用 🟦 表情符號)
+
+<img width="287" height="171" alt="image" src="https://github.com/user-attachments/assets/bb9b2ed8-d922-456f-b042-e2019563eb1e" />
+
+Challenge 2.2 (邊界模擬): 用字串相加，印出一行帶有邊界牆壁的網格。
+
+<img width="491" height="149" alt="image" src="https://github.com/user-attachments/assets/db9be98d-b943-40ac-9c92-ed0af8eb0b40" />
+
+Challenge 2.3 (交錯的一維空間): 使用一個 for 迴圈加上 if-else (配合 % 2 判斷奇偶)，印出交錯的排列
+
+<img width="405" height="166" alt="image" src="https://github.com/user-attachments/assets/9aef3f2e-c234-4dae-a34d-3d488f3b6ba2" />
+
+Challenge 2.4 (非方正的維度): 採地雷不一定要是正方形！寫一個雙層迴圈，印出一個高度為 4，寬度為 8 的長方形盤面
+
+<img width="386" height="192" alt="image" src="https://github.com/user-attachments/assets/7f0543f0-b741-48dc-9410-0a65468d0b5a" />
+
+Challenge 2.5 (孤單的地雷): 使用雙層迴圈印出 3x3 的盤面。在內部加入 if row == 1 and col == 1: 的判斷，讓「只有正中央」是一顆地雷 💣，其餘皆為 🟩
+
+<img width="424" height="236" alt="image" src="https://github.com/user-attachments/assets/61b88235-2220-47a3-8672-d5514318bf3a" />
+
+
+
+
 
 
 
